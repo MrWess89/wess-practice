@@ -1,0 +1,33 @@
+(Head DevOps Engineers Details)
+
+Name: Tito Perez
+Address: 21 Marco Avenue, Hixuana, Lagos, Portugal.
+Email: titoperez89@gmail.com
+Milo Access Password: Chichi24
+Parking lot: GT29
+Car Brand: BMW (Maxie) 
+Car Colour: Grey
+
+Name: Yukky Simon
+Address: 23 Vina Drive, Manitoba, Canada.
+Email: Yukky_simon@gmail.com
+Arda Access Password: Torino13
+Parking lot: XV55
+Car Brand: Bugatti
+Car Colour: Black
+
+Name: Nick Sanders
+Address: 41 Brook Street, Atlanta, Georgia, USA.
+Email: niksand22@gmail.com
+Lima Access Password: Vienna49
+Parking lot: PR33
+Car Brand: Mercedes
+Car Colour: White
+
+Name:  Wesley Simone
+Address: 102 Vixtro Avenue, Dundee, Scotland.
+Email: wess_sim007@gmail.com
+Lima Access Password: Wexie419
+Parking lot: QB99
+Car Brand: Honda
+Car Colour: Black
